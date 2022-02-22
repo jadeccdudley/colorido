@@ -278,3 +278,5 @@ textarea {
   display: flex;
   gap: 20px;
 }
+body {background-color:#F6D2E0};
+p {background-color:white};
