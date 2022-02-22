@@ -263,3 +263,18 @@ textarea {
 }
 
 }
+.colorido-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #666;
+}
+
+.colorido-header-logo {
+  max-width: 200px;
+}
+
+.colorido-header-nav {
+  display: flex;
+  gap: 20px;
+}
