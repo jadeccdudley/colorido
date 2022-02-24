@@ -281,7 +281,11 @@ textarea {
 body {background-color:#F6D2E0;
   text-align: center;
 }
-p {background-color:white;}
+img  {
+width:100%;
+height:auto;
+}
+p {background-color:#af7b8f;}
 .main-section-background {
   display:flex;
   align-items: center;
@@ -307,7 +311,7 @@ p {background-color:white;}
 .top-wording {
   display:flex;
 }
-.nik-demo-row {
+.menu-row {
   display: flex;
   gap: 30px;
 }
