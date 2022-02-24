@@ -263,6 +263,9 @@ textarea {
 }
 
 }
+.Colorido-top {
+text-align: center;
+}
 .colorido-header {
   display: flex;
   justify-content: space-between;
@@ -293,11 +296,10 @@ p {background-color:#af7b8f;}
   padding-left: 60px;
   padding-right: 60px;
 }
-
+/* main page  css */
 .main-section-description {
  width: 40%;
 }
-
 .main-section-image {
   margin-right: auto;
   width: 100%;
@@ -306,7 +308,7 @@ p {background-color:#af7b8f;}
   inline-size:400px
 }
 .colorido-header {
-  background-color: rgb(239, 251, 255);
+  background-color: rgb(173, 238, 227);
 }
 .top-wording {
   display:flex;
@@ -314,4 +316,36 @@ p {background-color:#af7b8f;}
 .menu-row {
   display: flex;
   gap: 30px;
+}
+/* events for the month */
+.the-yeagerists {
+border: 3px dotted rgb(185, 239, 255);
+text-align:right;
+}
+.eren_yeager {
+margin-left: auto;
+width:15%;
+}
+.snoopdog {
+border: 3px dotted rgb(185, 239, 255);
+text-align: right;
+}
+.snoop_doglive {
+  margin-left: auto;
+  width:15%;
+  }
+  .lilwayne {
+    border: 3px dotted rgb(185, 239, 255);
+    text-align:right;
+    }
+    .lilwaynelive {
+      margin-left: auto;
+      width:10%;
+      }
+.oklahoma {
+width:30%
+}
+.oklahoma_city {
+border: 3px dotted rgb(185, 239, 255);
+text-align: left;
 }
