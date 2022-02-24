@@ -302,6 +302,7 @@ p {background-color:#af7b8f;}
 }
 .main-section-image {
   margin-right: auto;
+  align-items:center;
   width: 100%;
 }
 .text-box{
