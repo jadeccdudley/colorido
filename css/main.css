@@ -278,22 +278,25 @@ textarea {
   display: flex;
   gap: 20px;
 }
-body {background-color:#F6D2E0};
-p {background-color:white};
-.jade-section-background {
-  display: flex;
+body {background-color:#F6D2E0;
+  text-align: center;
+}
+p {background-color:white;}
+.main-section-background {
+  display:flex;
   align-items: center;
   gap: 24px;
   padding-left: 60px;
   padding-right: 60px;
 }
 
-.jade-section-description {
+.main-section-description {
  width: 40%;
 }
 
-.jade-section-image {
-  width: 40%;
+.main-section-image {
+  margin-right: auto;
+  width: 100%;
 }
 .text-box{
   inline-size:400px
@@ -303,4 +306,8 @@ p {background-color:white};
 }
 .top-wording {
   display:flex;
+}
+.nik-demo-row {
+  display: flex;
+  gap: 30px;
 }
